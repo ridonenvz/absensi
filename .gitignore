@@ -16,6 +16,9 @@ Homestead.yaml
 /storage/framework/cache/data/*
 /storage/framework/sessions/*
 /storage/framework/views/*
+!/storage/framework/cache/data/.gitkeep
+!/storage/framework/sessions/.gitkeep
+!/storage/framework/views/.gitkeep
 /database/database.sqlite
 /bootstrap/cache/*.php
 *.zip
